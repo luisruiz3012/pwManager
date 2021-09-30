@@ -1,0 +1,6 @@
+click==8.0.1
+colorama==0.4.4
+itsdangerous==2.0.1
+MarkupSafe==2.0.1
+mysql-connector-python==8.0.26
+protobuf==3.18.0
